@@ -66,11 +66,17 @@ The trained model is saved as a pickle file (copper_grade_model.pkl) for later u
 # How to Run
 
 Save the dataset as copper_data.csv in the working directory.
+
 Run the Python script to perform the following tasks:
+
 Load and preprocess the data.
+
 Train the model.
+
 Evaluate the model performance.
+
 Visualize feature importance.
+
 Save the trained model as a pickle file.
 
 # Expected Outputs
