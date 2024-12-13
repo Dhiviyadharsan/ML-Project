@@ -82,6 +82,9 @@ Save the trained model as a pickle file.
 # Expected Outputs
 
 **Correlation Heatmap:** Displays relationships between features and helps identify strong correlations with the target variable (grade).
+
 **Model Evaluation Metrics:** Shows performance metrics such as MAE, RMSE, and R² score to assess model accuracy.
+
 **Feature Importance Plot:** Highlights which features are most influential in predicting copper grade.
+
 **Serialized Model:** The model is saved as a pickle file (copper_grade_model.pkl), which can be reused for future predictions.
